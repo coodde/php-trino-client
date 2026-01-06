@@ -2,6 +2,7 @@
     "name": "coodde/php-trino-client",
     "description": "Simple reusable modern PHP Trino client library",
     "type": "library",
+    "license": "Apache-2.0",
     "require": {
         "php": ">=8.0",
         "ext-curl": "*"
